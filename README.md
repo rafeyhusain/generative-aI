@@ -1,4 +1,7 @@
-# Problem
+# Introduction
+Write a solution using Generative AI technologies.
+
+## Problem
 
 Create a page where users can upload a text file and email address.
 
