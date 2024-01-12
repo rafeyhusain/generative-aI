@@ -23,5 +23,6 @@ Remember to install the required packages before running the script by executing
 
 ```bash
 pip install Flask openai
+```
 
 Replace the placeholder values with your actual OpenAI API key, email credentials, and secret key.
