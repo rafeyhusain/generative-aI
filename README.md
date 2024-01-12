@@ -1,4 +1,6 @@
-# Create a page where users can upload a text file and email address.
+# Problem
+
+Create a page where users can upload a text file and email address.
 
 The system will run the following 2 Generative AI Prompts, and the response from the prompts will be sent to the user's email.
 
